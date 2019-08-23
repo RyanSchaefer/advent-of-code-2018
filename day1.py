@@ -1,0 +1,1 @@
+print(sum(map(int, open('day1.txt', 'r').readlines())))
